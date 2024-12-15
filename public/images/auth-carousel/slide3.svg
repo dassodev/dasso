@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .main-char { font: bold 200px sans-serif; }
+        .sub-text { font: bold 40px sans-serif; }
+        .progress-line { stroke: #059669; stroke-width: 4; fill: none; }
+        .progress-dot { fill: #059669; }
+    </style>
+    <text x="400" y="200" class="main-char" text-anchor="middle" fill="#374151">进</text>
+    <path d="M250 400 Q400 300 550 400" class="progress-line"/>
+    <circle cx="250" cy="400" r="6" class="progress-dot"/>
+    <circle cx="400" cy="300" r="6" class="progress-dot"/>
+    <circle cx="550" cy="400" r="6" class="progress-dot"/>
+    <text x="400" y="480" class="sub-text" text-anchor="middle" fill="#6B7280">Track Progress</text>
+</svg>

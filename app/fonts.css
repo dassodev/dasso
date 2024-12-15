@@ -1,0 +1,74 @@
+/* Noto Sans SC is now loaded via Google Fonts */
+.font-noto {
+  font-family: var(--font-noto-sans);
+}
+
+/* EB Garamond */
+@font-face {
+  font-family: 'EB Garamond';
+  src: url('/fonts/ebGaramond_regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Literata */
+@font-face {
+  font-family: 'Literata';
+  src: url('/fonts/literata_regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Merriweather */
+@font-face {
+  font-family: 'Merriweather';
+  src: url('/fonts/merriweather_regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Noto Serif */
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('/fonts/notoSerif_regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SimSun */
+@font-face {
+  font-family: 'SimSun';
+  src: url('/fonts/sySimSun.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Vollkorn */
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('/fonts/vollkorn_regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('/fonts/vollkorn_medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Vollkorn';
+  src: url('/fonts/vollkorn_bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}

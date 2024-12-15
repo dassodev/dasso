@@ -1,0 +1,5 @@
+<svg width="400" height="600" viewBox="0 0 400 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="600" fill="#E5E7EB"/>
+  <path d="M200 250C188.954 250 180 258.954 180 270C180 281.046 188.954 290 200 290C211.046 290 220 281.046 220 270C220 258.954 211.046 250 200 250ZM196.768 280L190 273.232L192.232 271L196.768 275.536L207.768 264.536L210 266.768L196.768 280Z" fill="#9CA3AF"/>
+  <text x="200" y="320" text-anchor="middle" font-family="system-ui" font-size="16" fill="#6B7280">Book Cover</text>
+</svg>

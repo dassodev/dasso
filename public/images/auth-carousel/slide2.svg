@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .main-char { font: bold 200px sans-serif; }
+        .sub-text { font: bold 40px sans-serif; }
+        .stroke-line { stroke: #4B5563; stroke-width: 4; }
+    </style>
+    <text x="400" y="250" class="main-char" text-anchor="middle" fill="#374151">写</text>
+    <line x1="250" y1="350" x2="550" y2="350" class="stroke-line"/>
+    <line x1="250" y1="400" x2="550" y2="400" class="stroke-line"/>
+    <text x="400" y="480" class="sub-text" text-anchor="middle" fill="#6B7280">Practice Writing</text>
+</svg>
